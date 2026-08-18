@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent",
+  "description": "Intelligent Android AI Agent for automated device actions, app launching, voice commands, and natural-language automation using Gemini and Ollama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

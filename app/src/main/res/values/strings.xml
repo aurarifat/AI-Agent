@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AI Agent</string>
+    <string name="accessibility_service_description">Enables the AI Agent to perform safe, user-authorized UI interactions (clicking, scrolling, typing in apps) to execute your automation commands.</string>
+    <string name="perm_accessibility_title">Accessibility Service</string>
+    <string name="perm_accessibility_desc">Required to interact with apps on your behalf (tap search, type queries, navigate UI).</string>
+    <string name="perm_mic_title">Microphone Access</string>
+    <string name="perm_mic_desc">Required for voice commands and hands-free natural speech input.</string>
+    <string name="perm_contacts_title">Contacts Access</string>
+    <string name="perm_contacts_desc">Required to lookup contact names and numbers when asking the agent to call or find contacts.</string>
+    <string name="perm_phone_title">Phone Calls</string>
+    <string name="perm_phone_desc">Required to initiate approved direct phone calls to your contacts.</string>
+    <string name="perm_notification_title">Notifications</string>
+    <string name="perm_notification_desc">Required to display task progress and completion alerts in the background.</string>
+</resources>
